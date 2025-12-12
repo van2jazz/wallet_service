@@ -3,7 +3,6 @@
 *.sql
 *.sh
 HELP*
-application-test.properties
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
